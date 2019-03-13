@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/gnappo1-45884/code/labs/tic-tac-toe-rb-v-000/lib/tic_tac_toe.rb": [
+      "/home/gnappo1/tic-tac-toe-rb-v-000/lib/tic_tac_toe.rb": [
         1,
         null,
         null,
@@ -106,6 +106,6 @@
         null
       ]
     },
-    "timestamp": 1488846967
+    "timestamp": 1552498654
   }
 }
